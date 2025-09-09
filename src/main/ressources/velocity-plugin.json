@@ -1,0 +1,9 @@
+{
+  "id": "ksr-proxy-whitelist",
+  "name": "KSR-Proxy-Whitelist",
+  "version": "1.0.0",
+  "description": "Customizes whitelist kick messages on Velocity",
+  "authors": ["Timy Liniger"],
+  "url": "https://ksrminecraft.ch/",
+  "main": "ch.ksrminecraft.kSRProxyWhitelist.KSRProxyWhitelist"
+}
